@@ -1,0 +1,8 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/inicio/page": "app/inicio/page.js",
+  "/inicio/resultados/adm/page": "app/inicio/resultados/adm/page.js",
+  "/inicio/resultados/amuproba/page": "app/inicio/resultados/amuproba/page.js",
+  "/inicio/resultados/sima/page": "app/inicio/resultados/sima/page.js",
+  "/inicio/resultados/facilitar/page": "app/inicio/resultados/facilitar/page.js"
+}
