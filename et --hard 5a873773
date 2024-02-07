@@ -1,0 +1,16 @@
+q
+[33mbce28d0d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{3}: checkout: moving from dead to main
+[33m03556203[m[33m ([m[1;32mdead[m[33m)[m HEAD@{4}: commit: News
+[33m1cf9ddff[m HEAD@{5}: commit: first commit
+[33m6b47af7d[m HEAD@{6}: commit: update indexjs
+[33md3fd6700[m HEAD@{7}: commit: cambio
+[33ma4f52830[m HEAD@{8}: reset: moving to HEAD
+[33ma4f52830[m HEAD@{9}: reset: moving to HEAD
+[33ma4f52830[m HEAD@{10}: commit: Configurar Git LFS para archivos grandes
+[33ma14a5fe0[m HEAD@{11}: commit: Juanch
+[33mb52adb35[m HEAD@{12}: commit: CAMBIADO
+[33m1afc78c3[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{13}: checkout: moving from master to dead
+[33m1afc78c3[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{14}: commit: subiendo nodemoludes
+[33m8e5859cb[m HEAD@{15}: pull origin master: Merge made by the 'ort' strategy.
+[33m495d2d2e[m HEAD@{16}: commit: subi node modules
+[33mc0acd783[m HEAD@{17}: commit (initial): Proyecto Z
